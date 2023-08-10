@@ -1,5 +1,0 @@
-video usado > https://www.youtube.com/watch?v=L6gk7FHBNkM
-
-_________________________________________________________
-
-INICIA O MODULO > go mod init endereco-repositorio(ex: viniciusvacare/go_api)
